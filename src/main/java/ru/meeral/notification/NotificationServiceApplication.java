@@ -1,4 +1,4 @@
-package ru.meeral.notificationservice;
+package ru.meeral.notification;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
