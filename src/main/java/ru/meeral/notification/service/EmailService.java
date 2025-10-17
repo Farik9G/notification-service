@@ -1,4 +1,4 @@
-package ru.meeral.notificationservice.service;
+package ru.meeral.notification.service;
 
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.MimeMessage;

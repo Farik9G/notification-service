@@ -1,12 +1,12 @@
-package ru.meeral.notificationservice.consumer;
+package ru.meeral.notification.consumer;
 
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
-import ru.meeral.notificationservice.service.EmailService;
-import ru.meeral.notificationservice.dto.NotificationDTO;
+import ru.meeral.notification.service.EmailService;
+import ru.meeral.notification.dto.NotificationDTO;
 
 @Slf4j
 @Service

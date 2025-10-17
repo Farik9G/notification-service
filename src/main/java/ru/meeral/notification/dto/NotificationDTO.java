@@ -1,4 +1,4 @@
-package ru.meeral.notificationservice.dto;
+package ru.meeral.notification.dto;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import lombok.AllArgsConstructor;
